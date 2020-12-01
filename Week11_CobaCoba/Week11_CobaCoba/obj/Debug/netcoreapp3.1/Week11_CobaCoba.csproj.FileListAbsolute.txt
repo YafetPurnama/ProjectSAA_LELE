@@ -1,0 +1,13 @@
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\bin\Debug\netcoreapp3.1\Week11_CobaCoba.exe
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\bin\Debug\netcoreapp3.1\Week11_CobaCoba.deps.json
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\bin\Debug\netcoreapp3.1\Week11_CobaCoba.runtimeconfig.json
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\bin\Debug\netcoreapp3.1\Week11_CobaCoba.runtimeconfig.dev.json
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\bin\Debug\netcoreapp3.1\Week11_CobaCoba.dll
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\bin\Debug\netcoreapp3.1\Week11_CobaCoba.pdb
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\obj\Debug\netcoreapp3.1\Week11_CobaCoba.csprojAssemblyReference.cache
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\obj\Debug\netcoreapp3.1\Week11_CobaCoba.AssemblyInfoInputs.cache
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\obj\Debug\netcoreapp3.1\Week11_CobaCoba.AssemblyInfo.cs
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\obj\Debug\netcoreapp3.1\Week11_CobaCoba.csproj.CoreCompileInputs.cache
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\obj\Debug\netcoreapp3.1\Week11_CobaCoba.dll
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\obj\Debug\netcoreapp3.1\Week11_CobaCoba.pdb
+C:\Users\Yafet\source\repos\Week11_CobaCoba\Week11_CobaCoba\obj\Debug\netcoreapp3.1\Week11_CobaCoba.genruntimeconfig.cache
